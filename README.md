@@ -4,7 +4,7 @@ Wakiso district covers approximately 1,084 square miles with major municipalitie
 
 To access the app, click on the link that opens when the code runs, Please note that the notebook cell has to keep  running to access the app
 
-#System Credentials
+**System Credentials**
 
 Username: admin
 
